@@ -8,12 +8,13 @@ The Bonn dataset consists of 100 single-channel EEG recordings with a spectral b
 
 ## 1. Data Preprocessing
 
-The amplitude of the voltage changes in microvolts (mV) over time in seconds. The
-x-axis goes from 0 to 4000 seconds, while the y-axis goes from -300 to 400 mV.
+The amplitude of the voltage changes in microvolts (mV) over time in seconds. The x-axis goes from 0 to 4000 seconds, while the y-axis goes from -300 to 400 mV.
 
 ![image](https://github.com/Samhita-kolluri/EEGClassification_LSTM-CNN/assets/65637090/83dbc6c3-341a-4f60-8576-054379083f85)
 
-After Feature Extraction 
+After Feature Extraction:
+
+
 ![image](https://github.com/Samhita-kolluri/EEGClassification_LSTM-CNN/assets/65637090/36c37eb1-08d6-472b-8fd1-5a4bb7e58353)
 
 
